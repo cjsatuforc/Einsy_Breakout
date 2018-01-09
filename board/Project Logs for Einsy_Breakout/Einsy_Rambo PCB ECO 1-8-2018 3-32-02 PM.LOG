@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+12V2 Pin=J19-1
+Removed Pin From Net: NetName=VCC Pin=J19-2
+Removed Pin From Net: NetName=nAC_FAULT Pin=J19-3
+Removed Pin From Net: NetName=GND Pin=J19-4
+Removed Pin From Net: NetName=PROC_nCS Pin=J19-5
+Removed Pin From Net: NetName=MISO Pin=J19-9
+Removed Pin From Net: NetName=VCC Pin=J19-10
+Removed Pin From Net: NetName=SCK Pin=J19-11
+Removed Pin From Net: NetName=MOSI Pin=J19-12
+Removed Pin From Net: NetName=nRESET Pin=J19-13
+Removed Pin From Net: NetName=GND Pin=J19-14
+Removed Pin From Net: NetName=GND Pin=R81-2
+Removed Pin From Net: NetName=MISO Pin=TP34-TP
+Removed Pin From Net: NetName=nRESET Pin=TP37-TP
+Removed Pin From Net: NetName=SCK Pin=TP55-TP
