@@ -107,6 +107,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YIUFRWTQ
 
 [Document5]
+DocumentPath=Breakout.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWMXSIXH
+
+[Document6]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJAGOFPX
 
-[Document6]
+[Document7]
 DocumentPath=Endstops.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXCQGDFO
 
-[Document7]
+[Document8]
 DocumentPath=Heaters.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UTAIBHKV
 
-[Document8]
+[Document9]
 DocumentPath=Einsy_Rambo.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=Motor-X.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHGTCUOF
 
-[Document10]
+[Document11]
 DocumentPath=Motor-Y.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UCAMFKMA
 
-[Document11]
+[Document12]
 DocumentPath=Motor-Z.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQKGVBYN
 
-[Document12]
+[Document13]
 DocumentPath=Motor-E.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMWAJQTW
 
-[Document13]
+[Document14]
 DocumentPath=Einsy_Rambo.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2018,6 +2035,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
