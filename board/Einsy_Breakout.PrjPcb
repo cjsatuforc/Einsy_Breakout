@@ -277,19 +277,11 @@ GenerateClassCluster=0
 DocumentUniqueId=VFWRVFAW
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs\Assembly\BOM-Grouped_Einsy Rambo_0.6a.xlsx
+DocumentPath=Project Outputs\Assembly\Pick and Place_Einsy Rambo_1.0a.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Einsy_Rambo_0.5a\Design Rule Check - Einsy_Rambo.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs\Assembly\Pick and Place_Einsy Rambo_0.6a.csv
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs\Assembly\tab_bom_Einsy Rambo_0.6a.txt
+DocumentPath=Project Outputs\Assembly\tab_bom_Einsy Rambo_1.0a.txt
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -302,7 +294,7 @@ Value=a
 
 [Parameter2]
 Name=projectBoardVersion
-Value=1.0
+Value=0.0
 
 [Parameter3]
 Name=ProjectDesigner
@@ -310,7 +302,7 @@ Value=AWS
 
 [Parameter4]
 Name=ProjectTitle
-Value=Einsy Rambo
+Value=Einsy Breakout
 
 [Configuration1]
 Name=Default Configuration

@@ -1,10 +1,12 @@
-Output: Report Board Stack
-Type  : Report Board Stack
+Output: NC Drill Files
+Type  : NC Drill
 From  : PCB Document [Einsy_Rambo.PcbDoc]
-   Generated File[Einsy Rambo_0.6a.xls]
+   Generated File[Einsy Rambo_1.0a.TXT]
+   Generated File[Einsy Rambo_1.0a.LDP]
+   Generated File[Einsy Rambo_1.0a.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:48:34 AM On 8/16/2017
+Finished Output Generation At 4:13:59 PM On 1/24/2018
