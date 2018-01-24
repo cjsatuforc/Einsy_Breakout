@@ -281,10 +281,14 @@ DocumentPath=Project Outputs\Assembly\BOM-Grouped_Einsy Rambo_0.6a.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs\Assembly\Pick and Place_Einsy Rambo_0.6a.csv
+DocumentPath=Project Outputs for Einsy_Rambo_0.5a\Design Rule Check - Einsy_Rambo.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs\Assembly\Pick and Place_Einsy Rambo_0.6a.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs\Assembly\tab_bom_Einsy Rambo_0.6a.txt
 DItemRevisionGUID=
 
