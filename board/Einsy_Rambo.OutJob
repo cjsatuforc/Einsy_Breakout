@@ -488,9 +488,9 @@ OutputFileNameMulti4==OutputName+_+ProjectTitle+_+projectBoardVersion+projectBoa
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
 OpenOutput4=1
-OutputFilePath5=C:\Users\Aaron\Documents\Einsy_breakout\board\Project Outputs for Einsy_Rambo_0.5a\.PDF
-ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Einsy_Rambo_0.5a
+OutputFilePath5=C:\Users\Johnny-x-9c\Documents\Projects\einsy_breakout\board\Project Outputs\Einsy_Rambo.PDF
+ReleaseManaged5=0
+OutputBasePath5=Project Outputs\
 OutputPathMedia5=
 OutputPathMediaValue5=
 OutputPathOutputer5=[Output Type]
@@ -539,6 +539,6 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=C:\Users\Aaron\Documents\Einsy_breakout\board\Project Outputs for Einsy_Rambo_0.5a\.PDF
+RelativeOutputPath5=C:\Users\Johnny-x-9c\Documents\Projects\einsy_breakout\board\Project Outputs\Einsy_Rambo.PDF
 OpenOutputs5=1
 
